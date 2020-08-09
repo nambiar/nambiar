@@ -24,44 +24,31 @@ Hi there, I'm Sainath - aka [Epoch-IoT][website] 👋
 ------
 
 ####  Protocols Stacks Expertise:
-<img align="left" alt="Zigbee" width="300px" src="https://www.digi.com/getattachment/resources/standards-and-technologies/zigbee-wireless-standard/zigbee_alliance.png"/>
 
-<img align="left" alt="Thread" width="300px" src="https://iotee.files.wordpress.com/2015/04/thread1.jpg"/>
-
-<img align="left" alt="Thread" width="300px" src="https://locatify.com/wp-content/uploads/2015/10/ir_attachment_979.png"/>
-
-<img align="left" alt="Thread" width="300px" src="https://www.plugintoiot.com/wp-content/uploads/sub1ghz.png"/>
-
+| ![Zigbee](https://www.digi.com/getattachment/resources/standards-and-technologies/zigbee-wireless-standard/zigbee_alliance.png) | ![Thread](https://iotee.files.wordpress.com/2015/04/thread1.jpg) | ![BLE](https://locatify.com/wp-content/uploads/2015/10/ir_attachment_979.png) |![Sub](https://www.plugintoiot.com/wp-content/uploads/sub1ghz.png) |
+|:---:|:---:|:---:|:---:|
+| Zigbee 3.0, Z-Stack, 802.15.4 |OpenThread, 6LowPAN | BLE 4.1 | SubGhz |
 
 <br />
 <br />
 
 ------
 
-##### Languages and Tools:
-
-<img align="left" alt="HTML5" width="100px" src="https://img-a.udemycdn.com/course/750x422/2638042_ea2c_5.jpg" />
-
-<img align="left" alt="Sass" width="100px" src="https://juststickers.in/wp-content/uploads/2016/09/c-plus-plus.png"/>
-
-<img align="left" alt="CSS3" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1B6hhXuHukK3RYXZfO6TjobmmJXpLtVsCJBNQO-RiHRL6kc4&s"/>
-
-<img align="left" alt="Visual Studio Code" width="150px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbBCMWj2eIosafuHcwozQhA9KAhiPIByG-v2IuKlJm-fjP_LA&s" />
-
-<img align="left" alt="Visual Studio Code" width="150px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSunQN-fgNmq_HA2S8knIO6oPMUqqVo6AU4Vw&usqp=CAU" />
-
-<img align="left" alt="Visual Studio Code" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="Sass" width="200px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOn3DRdjmW9T1fLcItC-9G-HDFayNBHgca7yL-xEI2Lu2t6md4&s"/>
-
-<img align="left" alt="JavaScript" width="200px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRODqzvgKkOYvdiU9gnymdpkLT0cODwS_gpd_jdMxH3T5mJyfk&s"/>
-
-<img align="left" alt="Git" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="100px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-
+#####  Languages and Tools:
+|<img align="left" alt="HTML5" width="200px" src="https://img-a.udemycdn.com/course/750x422/2638042_ea2c_5.jpg" />|<img align="left" alt="Sass" width="200px" src="https://juststickers.in/wp-content/uploads/2016/09/c-plus-plus.png"/> |<img align="left" alt="CSS3" width="200px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1B6hhXuHukK3RYXZfO6TjobmmJXpLtVsCJBNQO-RiHRL6kc4&s"/> |<img align="left" alt="Visual Studio Code" width="250px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbBCMWj2eIosafuHcwozQhA9KAhiPIByG-v2IuKlJm-fjP_LA&s" /> |
+|:---:|:---:|:---:|:---:|
+| Zigbee 3.0, Z-Stack, 802.15.4 |OpenThread, 6LowPAN | BLE 4.1 | SubGhz |
 <br />
+
+
+|<img align="left" alt="Visual Studio Code" width="250px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSunQN-fgNmq_HA2S8knIO6oPMUqqVo6AU4Vw&usqp=CAU" />| <img align="left" alt="Visual Studio Code" width="150px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />| <img align="left" alt="Sass" width="250px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOn3DRdjmW9T1fLcItC-9G-HDFayNBHgca7yL-xEI2Lu2t6md4&s"/>|<img align="left" alt="JavaScript" width="250px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRODqzvgKkOYvdiU9gnymdpkLT0cODwS_gpd_jdMxH3T5mJyfk&s"/>|
+|:---:|:---:|:---:|:---:|
+| Zigbee 3.0, Z-Stack, 802.15.4 |OpenThread, 6LowPAN | BLE 4.1 | SubGhz |  
+<br />
+
+|<img align="left" alt="Git" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_freeRTOS.png"/>|<img align="left" alt="Git" width="150px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPEaM39TWdS7vZDbqOOWZKKYzAMAdmMFEPs8c35_uOwPsY-7bT&s"/>|<img align="left" alt="Git" width="250px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />| <img align="left" alt="GitHub" width="100px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />|
+|:---:|:---:|:---:|:---:|
+| Zigbee 3.0, Z-Stack, 802.15.4 |OpenThread| Git | GitHub| 
 <br />
 
 ---
