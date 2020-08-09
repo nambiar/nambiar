@@ -30,7 +30,7 @@ Hi there, I'm Sainath - aka [Epoch-IoT][website] 👋
 
 <img align="left" alt="Thread" width="300px" src="https://locatify.com/wp-content/uploads/2015/10/ir_attachment_979.png"/>
 
-<img align="left" alt="Thread" width="300px" src="https://www.plugintoiot.com/wp-content/uploads/sub1ghz.png"/>
+<img align="left" alt="Thread" width="300px" src="https://www.plugintoiot.com/wp-content/uploads/sub1ghz.png"/>  
 
 <br />
 <br />
