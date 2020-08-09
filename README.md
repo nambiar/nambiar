@@ -23,7 +23,7 @@ Hi there, I'm Sainath - aka [Epoch-IoT][website] 👋
 
 ------
 
-###  Protocols Stacks Expertise:
+####  Protocols Stacks Expertise:
 <img align="left" alt="Zigbee" width="300px" src="https://www.digi.com/getattachment/resources/standards-and-technologies/zigbee-wireless-standard/zigbee_alliance.png"/>
 
 <img align="left" alt="Thread" width="300px" src="https://iotee.files.wordpress.com/2015/04/thread1.jpg"/>
@@ -37,7 +37,7 @@ Hi there, I'm Sainath - aka [Epoch-IoT][website] 👋
 
 ------
 
-### Languages and Tools:
+#### Languages and Tools:
 
 <img align="left" alt="HTML5" width="100px" src="https://img-a.udemycdn.com/course/750x422/2638042_ea2c_5.jpg" />
 
