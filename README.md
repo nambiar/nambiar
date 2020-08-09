@@ -9,6 +9,8 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects like Contiki, Zephyr OS. TensorflowLite.
 - ⚡ Fun fact: I like to write about life and incidents around me.
 
+------
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -19,15 +21,18 @@
 <br />
 <br />
 
-### IoT Protocols Stacks Expertise:
+------
+
+###  Protocols Stacks Expertise:
 <img align="left" alt="Zigbee" width="300px" src="https://www.digi.com/getattachment/resources/standards-and-technologies/zigbee-wireless-standard/zigbee_alliance.png"/>
 
 <img align="left" alt="Thread" width="300px" src="https://iotee.files.wordpress.com/2015/04/thread1.jpg"/>
 
 <img align="left" alt="Thread" width="300px" src="https://locatify.com/wp-content/uploads/2015/10/ir_attachment_979.png"/>
 
-
 <img align="left" alt="Thread" width="300px" src="https://www.plugintoiot.com/wp-content/uploads/sub1ghz.png"/>
+
+------
 
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
