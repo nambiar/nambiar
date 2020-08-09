@@ -16,7 +16,21 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
+<br />
+<br />
 
+### IoT Protocols Stacks Expertise:
+<img align="left" alt="Zigbee" width="300px" src="https://www.digi.com/getattachment/resources/standards-and-technologies/zigbee-wireless-standard/zigbee_alliance.png"/>
+
+<img align="left" alt="Thread" width="300px" src="https://iotee.files.wordpress.com/2015/04/thread1.jpg"/>
+
+<img align="left" alt="Thread" width="300px" src="https://locatify.com/wp-content/uploads/2015/10/ir_attachment_979.png"/>
+
+
+<img align="left" alt="Thread" width="300px" src="https://www.plugintoiot.com/wp-content/uploads/sub1ghz.png"/>
+
+
+<br />
 <br />
 
 ### Languages and Tools:
