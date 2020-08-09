@@ -37,7 +37,7 @@ Hi there, I'm Sainath - aka [Epoch-IoT][website] 👋
 
 ------
 
-#### Languages and Tools:
+##### Languages and Tools:
 
 <img align="left" alt="HTML5" width="100px" src="https://img-a.udemycdn.com/course/750x422/2638042_ea2c_5.jpg" />
 
