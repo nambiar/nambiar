@@ -1,6 +1,6 @@
 Hi there, I'm Sainath - aka [Epoch-IoT][website] 👋
 
-## I'm a IoT Devices and systems developer, and network embedded systems researcher, also keen on deploying AI on edge!
+## I'm an IoT devices and systems developer, and network embedded systems researcher, keen on deploying AI on edge!
 - 🔭 I’m currently working on time synchronisation and localisation using UWB using 6lowpan as communication stack!
 - 🔭 Using Game engine SDL to create games.
 - 🔭 Learning about Reinforcement Learning(RL) and its adaption to robotic systems.
