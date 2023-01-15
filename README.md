@@ -35,7 +35,7 @@ Hi there, I'm Sainath - aka [Epoch-IoT][website] 👋
 ------
 
 ###  Languages and Tools:
-|<img align="left" alt="HTML5" width="200px" src="https://img-a.udemycdn.com/course/750x422/2638042_ea2c_5.jpg" />|<img align="left" alt="Sass" width="200px" src="https://juststickers.in/wp-content/uploads/2016/09/c-plus-plus.png"/> |<img align="left" alt="CSS3" width="200px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1B6hhXuHukK3RYXZfO6TjobmmJXpLtVsCJBNQO-RiHRL6kc4&s"/> |<img align="left" alt="Visual Studio Code" width="250px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbBCMWj2eIosafuHcwozQhA9KAhiPIByG-v2IuKlJm-fjP_LA&s" /> |
+|<img align="left" alt="HTML5" width="200px" src="https://miro.medium.com/max/750/0*tc5hGik294F0OmbC" />|<img align="left" alt="Sass" width="200px" src="https://juststickers.in/wp-content/uploads/2016/09/c-plus-plus.png"/> |<img align="left" alt="CSS3" width="200px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1B6hhXuHukK3RYXZfO6TjobmmJXpLtVsCJBNQO-RiHRL6kc4&s"/> |<img align="left" alt="Visual Studio Code" width="250px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbBCMWj2eIosafuHcwozQhA9KAhiPIByG-v2IuKlJm-fjP_LA&s" /> |
 |:---:|:---:|:---:|:---:|
 | ANSI C, C99 | C++11 | Python 3.7 | IAR IDE |
 <br />
@@ -46,14 +46,13 @@ Hi there, I'm Sainath - aka [Epoch-IoT][website] 👋
 | GNU Arm Compilers |Visual Studio | Tensorflow 2.0, TensorflowLite | PyTorch |  
 <br />
 
-|<img align="left" alt="Git" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_freeRTOS.png"/>|<img align="left" alt="Git" width="150px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPEaM39TWdS7vZDbqOOWZKKYzAMAdmMFEPs8c35_uOwPsY-7bT&s"/>|<img align="left" alt="Git" width="250px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />| <img align="left" alt="GitHub" width="100px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />|
+|<img align="left" alt="Git" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_freeRTOS.png"/>|<img align="left" alt="Git" width="150px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPEaM39TWdS7vZDbqOOWZKKYzAMAdmMFEPs8c35_uOwPsY-7bT&s"/>|<img align="left" alt="Git" width="250px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />| <img align="left" alt="GitHub" width="100px" src="https://github.blog/wp-content/uploads/2013/04/0cf7be70-a5e3-11e2-8943-6ac7a953f26d.jpg?resize=1234%2C631" />|
 |:---:|:---:|:---:|:---:|
 | FreeRTOS | Contiki OS | Git & SVN | GitHub| 
 <br />
 
 ---
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nambiar&show_icons=true&hide_border=true" />
+![Sainath's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nambiar&show_icons=true&theme=transparent)
 
 [website]: https://www.epoch-iot-technologies.com
 [linkedin]: https://www.linkedin.com/in/sainath-nambiar-45067922
